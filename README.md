@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Hazim Karam</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer, always eager to learn and innovate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazim-karam159&label=Profile%20views&color=0e75b6&style=flat" alt="hazim-karam159" /> </p>
+
+- 🌱 I’m currently enrolled in the 9-Month ITI Scholarship under the Java Enterprise & Web Development (EWD) track at ITI Smart Village.
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **hazimkaram159@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/18yPdE7I2AZXtYTo5qEIOs5ygL7Wk_x3_](https://drive.google.com/drive/folders/18yPdE7I2AZXtYTo5qEIOs5ygL7Wk_x3_)
+- ⚡ Fun fact **always learning**
+
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1huykpPCkMfnvvvx0q14XIfFQm3b4mKSf/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hazim karam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazim karam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hazim-karam-b14737266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazim karam" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohamedkaram159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamedkaram159" height="30" width="40" /></a>
 </p>
 
