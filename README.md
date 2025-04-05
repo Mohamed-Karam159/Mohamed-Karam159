@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hazim Karam</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hi+There!+👋;I'm+Hazim+Karam!;Software+Engineer+💻;Always+Learning+📚" />
+</h1>
+
 <h3 align="center">A passionate Software Engineer, always eager to learn and innovate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazim-karam159&label=Profile%20views&color=0e75b6&style=flat" alt="hazim-karam159" /> </p>
