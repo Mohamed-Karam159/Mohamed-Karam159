@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **always learning**
 
-- 📄 Check out my [Resume](https://flowcv.com/resume/k2dsupmlahf9)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/19IJ-0vQ3d_4aingb4plG0p9FzlpeuQsw/view?usp=drivesdk)
 
    
 ## 🌐 Connect with Me
