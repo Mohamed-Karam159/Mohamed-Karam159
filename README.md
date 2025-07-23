@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **always learning**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1ZXc-SX0P5_Xsz8oBEW80_p1tQo5Ko_N5/view?usp=sharing)
+- 📄 Check out my [Resume]([https://drive.google.com/file/d/1ZXc-SX0P5_Xsz8oBEW80_p1tQo5Ko_N5/view?usp=sharing](https://drive.google.com/file/d/1w6sleLvPqf7YUuOQ7e47joaNvSunzFit/view?usp=sharing))
 
    
 ## 🌐 Connect with Me
